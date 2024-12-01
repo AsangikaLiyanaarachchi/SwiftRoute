@@ -136,7 +136,7 @@ const Login = () => {
               marginHorizontal: 10
             }}
             >
-              signup
+              sign up
             </Text>
           </View>
 
